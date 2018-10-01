@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (4.5.1)
+  - CountryPickerSwift (1.4.5)
+  - DLRadioButton (1.4.11)
+  - IQKeyboardManagerSwift (5.0.6)
+  - Kingfisher (4.2.0)
+  - OneSignal (2.5.7)
+  - SwiftSoup (1.5.8)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - CountryPickerSwift
+  - DLRadioButton
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - OneSignal
+  - SwiftSoup
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - CountryPickerSwift
+    - DLRadioButton
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - OneSignal
+    - SwiftSoup
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  CountryPickerSwift: be2cf0dc41887d8b16ea65ae263a70adb0cc953a
+  DLRadioButton: 0d04b8259e7bfd886571a1e9173c73fee7118f50
+  IQKeyboardManagerSwift: 02bfbb0dff71c66d0ab77d80d25dfce0c3717735
+  Kingfisher: 9ee7e788d8ba07c3f21ce0d43f33cec310a4f781
+  OneSignal: 5be2eb3394e654b7467a190fe4d58147fc46bb78
+  SwiftSoup: 86a1f5ad07b7e3d14ab1a9324a58c75ae2215e79
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: 9f8d99e08b88215bf495f1327a97c6b026ad9e67
+
+COCOAPODS: 1.5.3
